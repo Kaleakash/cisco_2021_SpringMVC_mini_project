@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+.imageClass{
+	display:inline-block;
+	margin: 10px;
+	padding:20px;
+	border: 2px solid orange;
+	border-radius: 20px
+}
+
+body{
+	background-image: url("https://images.pexels.com/photos/5632371/pexels-photo-5632371.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+	background-repeat: repeat-y;
+	background-size: 100% 600px;
+}
